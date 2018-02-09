@@ -1,0 +1,7 @@
+c:\users\пользователь\source\repos\OOTP12\OOTP12\bin\Debug\OOTP12.exe.config
+c:\users\пользователь\source\repos\OOTP12\OOTP12\bin\Debug\OOTP12.exe
+c:\users\пользователь\source\repos\OOTP12\OOTP12\bin\Debug\OOTP12.pdb
+c:\users\пользователь\source\repos\OOTP12\OOTP12\obj\Debug\OOTP12.csprojResolveAssemblyReference.cache
+c:\users\пользователь\source\repos\OOTP12\OOTP12\obj\Debug\OOTP12.csproj.CoreCompileInputs.cache
+c:\users\пользователь\source\repos\OOTP12\OOTP12\obj\Debug\OOTP12.exe
+c:\users\пользователь\source\repos\OOTP12\OOTP12\obj\Debug\OOTP12.pdb

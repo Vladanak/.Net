@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\OOTP8\OOTP8\bin\Debug\OOTP8.exe.config
+C:\Users\Пользователь\source\repos\OOTP8\OOTP8\bin\Debug\OOTP8.exe
+C:\Users\Пользователь\source\repos\OOTP8\OOTP8\bin\Debug\OOTP8.pdb
+C:\Users\Пользователь\source\repos\OOTP8\OOTP8\obj\Debug\OOTP8.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\source\repos\OOTP8\OOTP8\obj\Debug\OOTP8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\OOTP8\OOTP8\obj\Debug\OOTP8.exe
+C:\Users\Пользователь\source\repos\OOTP8\OOTP8\obj\Debug\OOTP8.pdb

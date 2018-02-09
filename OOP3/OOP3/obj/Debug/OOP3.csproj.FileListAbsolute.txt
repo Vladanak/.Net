@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\OOP3\OOP3\bin\Debug\OOP3.exe.config
+C:\Users\Пользователь\source\repos\OOP3\OOP3\bin\Debug\OOP3.exe
+C:\Users\Пользователь\source\repos\OOP3\OOP3\bin\Debug\OOP3.pdb
+C:\Users\Пользователь\source\repos\OOP3\OOP3\obj\Debug\OOP3.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\source\repos\OOP3\OOP3\obj\Debug\OOP3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\OOP3\OOP3\obj\Debug\OOP3.exe
+C:\Users\Пользователь\source\repos\OOP3\OOP3\obj\Debug\OOP3.pdb

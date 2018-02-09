@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\OOTP11\OOTP11\bin\Debug\OOTP11.exe.config
+C:\Users\Пользователь\source\repos\OOTP11\OOTP11\bin\Debug\OOTP11.exe
+C:\Users\Пользователь\source\repos\OOTP11\OOTP11\bin\Debug\OOTP11.pdb
+C:\Users\Пользователь\source\repos\OOTP11\OOTP11\obj\Debug\OOTP11.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\source\repos\OOTP11\OOTP11\obj\Debug\OOTP11.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\OOTP11\OOTP11\obj\Debug\OOTP11.exe
+C:\Users\Пользователь\source\repos\OOTP11\OOTP11\obj\Debug\OOTP11.pdb

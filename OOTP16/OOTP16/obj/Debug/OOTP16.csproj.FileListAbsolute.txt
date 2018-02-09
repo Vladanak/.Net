@@ -1,0 +1,7 @@
+c:\users\пользователь\source\repos\OOTP16\OOTP16\bin\Debug\OOTP16.exe.config
+c:\users\пользователь\source\repos\OOTP16\OOTP16\bin\Debug\OOTP16.exe
+c:\users\пользователь\source\repos\OOTP16\OOTP16\bin\Debug\OOTP16.pdb
+c:\users\пользователь\source\repos\OOTP16\OOTP16\obj\Debug\OOTP16.csprojResolveAssemblyReference.cache
+c:\users\пользователь\source\repos\OOTP16\OOTP16\obj\Debug\OOTP16.csproj.CoreCompileInputs.cache
+c:\users\пользователь\source\repos\OOTP16\OOTP16\obj\Debug\OOTP16.exe
+c:\users\пользователь\source\repos\OOTP16\OOTP16\obj\Debug\OOTP16.pdb

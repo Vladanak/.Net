@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\OOTP3\OOTP3\bin\Debug\OOTP3.exe.config
+C:\Users\Пользователь\source\repos\OOTP3\OOTP3\bin\Debug\OOTP3.exe
+C:\Users\Пользователь\source\repos\OOTP3\OOTP3\bin\Debug\OOTP3.pdb
+C:\Users\Пользователь\source\repos\OOTP3\OOTP3\obj\Debug\OOTP3.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\source\repos\OOTP3\OOTP3\obj\Debug\OOTP3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\OOTP3\OOTP3\obj\Debug\OOTP3.exe
+C:\Users\Пользователь\source\repos\OOTP3\OOTP3\obj\Debug\OOTP3.pdb

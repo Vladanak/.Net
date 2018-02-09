@@ -1,0 +1,17 @@
+C:\Users\The Law\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\The Law\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.exe
+C:\Users\The Law\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.pdb
+C:\Users\The Law\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.csprojResolveAssemblyReference.cache
+C:\Users\The Law\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\The Law\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.pdb
+C:\Users\The Law\Desktop\Lab_14\Lab_14\bin\Debug\Newtonsoft.Json.dll
+C:\Users\The Law\Desktop\Прога\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\The Law\Desktop\Прога\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\The Law\Desktop\Прога\Lab_14\Lab_14\obj\Debug\Lab_14.pdb
+C:\Users\Пользователь\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\Пользователь\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.exe
+C:\Users\Пользователь\Desktop\Lab_14\Lab_14\bin\Debug\Lab_14.pdb
+C:\Users\Пользователь\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\Пользователь\Desktop\Lab_14\Lab_14\obj\Debug\Lab_14.pdb

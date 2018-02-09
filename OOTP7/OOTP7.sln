@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOTP7", "OOTP7\OOTP7.csproj", "{DC156AD6-F828-4B58-913A-3FA7A6F8465C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC156AD6-F828-4B58-913A-3FA7A6F8465C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC156AD6-F828-4B58-913A-3FA7A6F8465C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC156AD6-F828-4B58-913A-3FA7A6F8465C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC156AD6-F828-4B58-913A-3FA7A6F8465C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A8F67D-67A2-495B-8BB2-160FE4E76AED}
+	EndGlobalSection
+EndGlobal

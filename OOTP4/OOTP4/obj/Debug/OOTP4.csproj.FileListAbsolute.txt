@@ -1,0 +1,7 @@
+c:\users\пользователь\source\repos\OOTP4\OOTP4\obj\Debug\OOTP4.csprojResolveAssemblyReference.cache
+c:\users\пользователь\source\repos\OOTP4\OOTP4\obj\Debug\OOTP4.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\OOTP4\OOTP4\bin\Debug\OOTP4.exe.config
+C:\Users\Пользователь\source\repos\OOTP4\OOTP4\bin\Debug\OOTP4.exe
+C:\Users\Пользователь\source\repos\OOTP4\OOTP4\bin\Debug\OOTP4.pdb
+C:\Users\Пользователь\source\repos\OOTP4\OOTP4\obj\Debug\OOTP4.exe
+C:\Users\Пользователь\source\repos\OOTP4\OOTP4\obj\Debug\OOTP4.pdb

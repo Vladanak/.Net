@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\obj\Debug\OOTP2.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\obj\Debug\OOTP2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\bin\Debug\OOTP2.exe.config
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\bin\Debug\OOTP2.exe
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\bin\Debug\OOTP2.pdb
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\obj\Debug\OOTP2.exe
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\obj\Debug\OOTP2.pdb
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\bin\Debug\System.ValueTuple.dll
+C:\Users\Пользователь\source\repos\OOTP2\OOTP2\bin\Debug\System.ValueTuple.xml
